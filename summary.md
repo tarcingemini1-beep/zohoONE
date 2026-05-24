@@ -1,6 +1,6 @@
-## Verification Summary
+## Final Enriched Verification Summary
 Total target departments requested: 21
-Verified standalone departments with mapped HODs: 10
+Verified standalone departments with strictly extracted HODs: 10
 Unverified/Programs (Standalone dept does not exist): 11
 
 ## Unresolved/Ambiguous Departments (Not Standalone)
@@ -16,9 +16,10 @@ Unverified/Programs (Standalone dept does not exist): 11
 - Semiconductor Technology: Neither department nor program found on official site
 - BCA: Neither department nor program found on official site
 
-## Source URLs Used
+## Source URLs Explored and Cross-checked
 - Homepage: https://psgtech.edu/
 - Programmes Listing: https://psgtech.edu/programme_offered.php
 - Official Departments Hub: https://psgtech.edu/index.php
 - Official Heads Directory: https://psgtech.edu/Heads.php
 - Official Contacts: https://psgtech.edu/cont.php
+- Faculty Profile Pages via search: https://psgtech.edu/profile.php
